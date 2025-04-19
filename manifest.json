@@ -9,10 +9,10 @@
     "browser_action": {
         "default_title": "Hide Google Doodles",
         "default_icon": {
-            "16": "images/hgd-16.png",
-            "32": "images/hgd-32.png",
-            "64": "images/hgd-64.png",
-            "128": "images/hgd-128.png"
+            "16": "images/icon16.png",
+            "32": "images/icon32.png",
+            "64": "images/icon64.png",
+            "128": "images/icon128.png"
         }
     },
 

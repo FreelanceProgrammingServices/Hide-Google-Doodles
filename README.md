@@ -1,5 +1,5 @@
 # Hide Google Doodles
-**Hides the daily Google Doodle of the day, providing a distraction-free search environment*
+**Hides the daily Google Doodle of the day, providing a classic distraction-free search experience.*
 
 ![Hide-Google-Doodles_Logo](demo1.png)
 ![Hide-Google-Doodles_Logo](demo2.png)

@@ -1,0 +1,19 @@
+#prm-pt, #prm, div[class$="middle-slot-promo"] {
+    display: none !important;
+}
+
+#hplogo_new {
+    width: 272px;
+}
+
+.LLD4me {
+    min-height: 92px !important;
+}
+
+.k1zIA {
+    height: initial !important;
+}
+
+button[title='Share'], a[data-async-trigger='ddlshare'] {
+    display: none !important;
+}

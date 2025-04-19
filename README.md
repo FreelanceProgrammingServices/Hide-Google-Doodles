@@ -11,7 +11,7 @@
 
 ## Installation
 
-1. Download the latest `Hide-Google-Doodles.crx` from the [releases page](https://github.com/yourusername/Hide-Google-Doodles/releases/latest) 
+1. Download the latest `Hide-Google-Doodles.crx` from the [releases page](https://github.com/FreelanceProgrammingServices/Hide-Google-Doodles/releases/latest) 
 2. Go to chrome://extensions and enable Developer mode 
 3. Load Unpacked and select folder containing extracted files
 

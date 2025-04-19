@@ -1,4 +1,4 @@
-# Chrome OLED Mode Extension
+# Hide Google Doodles
 **Hides the daily Google Doodle of the day, providing a distraction-free search environment*
 
 ![Hide-Google-Doodles_Logo](demo1.png)
